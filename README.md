@@ -15,3 +15,8 @@
   Чат на реакте с авторизацией через гугл с помощью firebase (react)
 <p>https://testmysuperchat.netlify.app</p>
 </div>
+
+<div>
+  Тестовое задание для Всероссийской сети независимых рентгенодиагностических центров «Пикассо»
+<p>https://picasso-peach.vercel.app</p>
+</div>
