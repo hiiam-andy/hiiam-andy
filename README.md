@@ -20,3 +20,8 @@
   Тестовое задание для Всероссийской сети независимых рентгенодиагностических центров «Пикассо»
 <p>https://picasso-peach.vercel.app</p>
 </div>
+
+<div>
+  Тестовое задание для At-Work
+<p>https://at-work-sigma.vercel.app</p>
+</div>
